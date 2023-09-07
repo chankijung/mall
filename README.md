@@ -5,7 +5,7 @@
 - SpringBoot
 - SpringDataJPA
 - SpringSecurity
-- Jsoup
+- Redis
 - MySQL
 
 ## 프로젝트 기능
@@ -15,4 +15,16 @@
 - 탈퇴
 
 ### 장바구니
-- 장
+- 장바구니 등록
+- 수량 수정
+- 제거
+  
+
+### 재고관리
+- 특정 상품 재고 확인
+- 새로운 상품 추가
+- 특정 상품 재고 업데이트
+- 특정 상품 재고 삭제
+
+
+![image](https://github.com/chankijung/mall/assets/101311819/4499380d-ae56-4086-918b-7e3db0ee31be)
